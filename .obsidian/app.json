@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "_attachment",
-  "trashOption": "local"
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
 }
